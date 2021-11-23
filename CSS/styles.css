@@ -1,0 +1,16 @@
+
+button {
+color: rgb(114, 255, 71);
+}
+
+button:hover {
+color: tomato;
+}
+
+.title {
+    color: blue;
+}
+.title:hover {
+    color: crimson;
+}
+
